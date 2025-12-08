@@ -5,6 +5,7 @@
 **Student email (for verification):** 23f2001288@ds.study.iitm.ac.in  
 
 ## Business Context
+Minor formatting improvements.
 
 The company is a financial services provider that relies heavily on digital marketing channels (paid search, social ads, display, affiliates) to acquire new customers.
 
