@@ -48,7 +48,6 @@ def main():
     print(f"Maximum CAC: {max_cac:.2f}")
     print(f"Industry Target CAC: {INDUSTRY_TARGET:.2f}")
     print(f"Gap to target: {avg_cac - INDUSTRY_TARGET:.2f}")
-    print(f"Gap to target: {avg_cac - INDUSTRY_TARGET:.2f}")
 
     # 3. Line chart – CAC trend by quarter
     plt.figure(figsize=(8, 5))
