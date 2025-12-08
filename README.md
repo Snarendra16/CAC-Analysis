@@ -47,3 +47,5 @@ python cac_analysis.py
 - cac_analysis.py
 - README.md
 - (generated images) cac_trend_2024.png, cac_vs_target_2024.png
+- (generated images) cac_trend_2024.png, cac_vs_target_2024.png
+- (generated images) cac_trend_2024.png, cac_vs_target_2024.png
