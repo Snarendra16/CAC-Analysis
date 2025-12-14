@@ -2,8 +2,6 @@
 
 > A data-driven story on rising customer acquisition costs and how to optimize digital marketing channels.
 
-**Student email (for verification):** 23f2001288@ds.study.iitm.ac.in  
-
 ## Business Context
 
 The company is a financial services provider that relies heavily on digital marketing channels (paid search, social ads, display, affiliates) to acquire new customers.
